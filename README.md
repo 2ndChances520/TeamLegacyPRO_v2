@@ -1,8 +1,6 @@
-To give your **TeamLegacy Studio** README that same professional, high-impact GitHub look, I have applied the HTML centering, emoji-rich headers, and organized structure used in your STEM project. 
 
-I also integrated the "Massive Upgrade" details into a "What's New" section to make the repository look much more impressive to anyone visiting.
 
-***
+
 
 <div align="center">
 
